@@ -1,0 +1,20 @@
+#div-pass{
+    width: 400px;
+    height: 300px;
+    margin: 100px auto 0;
+    /* background-color:green; */
+}
+#lbl-pass{
+    display: block;
+    color: blue;
+}
+
+#input-pass{
+    width: 100%;
+    border: 0;
+    border-bottom: 1px blue solid;
+}
+
+.divTitle{
+    padding-bottom: 10px;
+}
